@@ -7,7 +7,7 @@ In case of problem in any question, feel free to open and issue. I will try to r
 # Course 1
 ## Linear Algebra for Machine Learning and Data Science
 
-### Solution to Quizzes, Solved Mathematical Questions, Labs,and Assignments.
+#### Solution to Quizzes, Solved Mathematical Questions, Labs,and Assignments.
 
 ## Week 1
 * [Quiz 1: Solving systems of linear equations](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week1/Quiz1_Solving%20system%20of%20linear%20equations.pdf)
