@@ -84,4 +84,20 @@ In case of problem in any question, feel free to open and issue. I will try to r
 
 - [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/6VQW8BYKZQCB)
 
+
+
+# Course 3
+## Probability & Statistics for Machine Learning & Data Science
+
+#### Solution to Quizzes, Solved Mathematical Questions, Labs,and Assignments.
+
+## Week 1
+*  [Quiz 1: Practice quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Quiz1-Week%201%20-%20Practice%20Quiz.pdf)
+*  [Quiz 2: Summative quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Quiz-Week%201%20-%20Summative%20quiz.pdf)
+*  [Lab 1: Four Birthday Problems](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Lab1.zip)
+*  [Lab 2: Monty Hall Problem](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Lab2.zip)
+*  [Programming Assignment 3: Probability Distributions / Naive Bayes](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Assignment_Week1/C3_W1_Assignment_solution.ipynb)
+*   [Programming Assignment 3 (with all the packages and supporting files): Probability Distributions / Naive Bayes](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Assignment_Week1/complete%20assignment%20with%20all%20files.zip)
+*   [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Lecture%20Week%201.rar)
+
 ---------------------------------------------------------------------------------------------
