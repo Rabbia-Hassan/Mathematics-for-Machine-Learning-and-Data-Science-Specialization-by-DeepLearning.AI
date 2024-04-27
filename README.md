@@ -117,7 +117,16 @@ In case of problem in any question, feel free to open and issue. I will try to r
 *   [Lab : Sampling data from different distribution and studying the distribution of sample mean](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/Lab%201.zip)
 *   [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/week3%20lectures.pdf)
   
-* 
+## Week 4
 
+*   [Quiz 1: Practice quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week4/Week%204%20-%20Practice%20Quiz.pdf)
+*   [Quiz 2: Summative Quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week4/Week%204%20-%20Summative%20Quiz.pdf)
+*   [Programming Assignment 3: (with all the packes and supporting files)](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week4/Assignment%20AB%20testing.zip)
+*   [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week4/week%204%20lectures.pdf)
+
+
+## Certificate
+
+- [Probability & Statistics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/4JFCEAYCTUV9)
 
 ---------------------------------------------------------------------------------------------
