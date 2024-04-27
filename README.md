@@ -130,3 +130,8 @@ In case of problem in any question, feel free to open and issue. I will try to r
 - [Probability & Statistics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/4JFCEAYCTUV9)
 
 ---------------------------------------------------------------------------------------------
+## Acknowledgments
+
+https://www.deeplearning.ai/
+http://coursera.org/
+
