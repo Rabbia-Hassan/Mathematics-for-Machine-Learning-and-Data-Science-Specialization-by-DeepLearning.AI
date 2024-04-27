@@ -41,3 +41,10 @@ In case of problem in any question, feel free to open and issue. I will try to r
 * [Programming Assignment 3: Eigenvalues and Eigenvectors](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week4/C1_W4_Assignment.ipynb)
 * [Programming Assignment 3 (with all the packes and supporting files): Eigenvalues and Eigenvectors](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/tree/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Solved%20assignments%20with%20all%20packages%20and%20files/assignment%20week4)
 * [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week4/slides%20week%204.pdf)
+
+
+## Certificate
+
+- [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/EVKJDBFAAEQA)
+
+---------------------------------------------------------------------------------------------
