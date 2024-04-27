@@ -107,7 +107,17 @@ In case of problem in any question, feel free to open and issue. I will try to r
 *  [Lab 1: Summary statistics and visualization of data sets](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/ugl_datasets_Lab_Week2.ipynb)
 *  [Lab 2: Simulating Dice Rolls with Numpy: (helper for the assignment, not necessary and not graded)](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/Lab%202%20Week2.zip)
 *  [Programming Assignment 2: (with all the packes and supporting files) Loaded Dice](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/Programming%20Assignment%20Loaded%20Dice.zip)
+*  [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/Lecture%20Week%202.rar)
 
+
+## Week 3
+
+*  [Quiz 1: Practice quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/Week%203%20_Quiz%201.pdf)
+*   [Quiz 1: Summative Quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/Week%203%20-%20Summative%20Quiz.pdf)
+*   [Lab : Sampling data from different distribution and studying the distribution of sample mean](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/Lab%201.zip)
+*   [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week3/week3%20lectures.pdf)
+  
+* 
 
 
 ---------------------------------------------------------------------------------------------
