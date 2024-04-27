@@ -100,4 +100,10 @@ In case of problem in any question, feel free to open and issue. I will try to r
 *   [Programming Assignment 3 (with all the packages and supporting files): Probability Distributions / Naive Bayes](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Assignment_Week1/complete%20assignment%20with%20all%20files.zip)
 *   [Lecture Slides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week1/Lecture%20Week%201.rar)
 
+## Week 2
+
+*  [Quiz 1: Practice quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/Week2_Quiz1.pdf)
+*  [Quiz 2: Summative Quiz](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C3%20-%20Probability%20%26%20Statistics%20for%20Machine%20Learning%20%26%20Data%20Science/Week2/Week%202%20-%20Summative%20Quiz%20with%20mathematically%20Solved%20questions.pdf)
+
+
 ---------------------------------------------------------------------------------------------
