@@ -16,3 +16,11 @@ In case of problem in any question, feel free to open and issue. I will try to r
 *  [Lab 2: Solving Linear Systems: 2 variables](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
 *  [Lecture Slides ](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week1/week1%20slides.pdf)
 
+## Week 2
+
+*  [Quiz 1: Method of Elimination](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week2/Quiz_Methods%20of%20Elimination.pdf)
+*  [Quiz 2: Rank of Matrix](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week2/Quiz_Rank%20of%20Matrix.pdf)
+*  [Lab 1: Solving Linear Systems: 3 variables](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week2/C1_W2_Lab_1_solving_linear_systems_3_variables.ipynb)
+*  [Programming Assignment 1: System of Linear Equations](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week2/C1_W2_Assignment.ipynb)
+*  [Programming Assignment 1 (with all the packes and supporting files): System of Linear Equations](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/tree/master/C1-%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Solved%20assignments%20with%20all%20packages%20and%20files/assignment%20week2)
+
