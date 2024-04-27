@@ -4,5 +4,6 @@ This repo has been created to share the solutions of all the quizzes (with solve
 
 In case of problem in any question, feel free to open and issue. I will try to respond to it asap.
 
+# Course 1
+**Linear Algebra for Machine Learning and Data Science:**
 
-# Linear Algebra for Machine Learning and Data Science
