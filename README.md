@@ -131,7 +131,7 @@ In case of problem in any question, feel free to open and issue. I will try to r
 
 ---------------------------------------------------------------------------------------------
 
-## Speciallization Certificate
+## Specialization Certificate
 [Mathematics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/A9NX8Q7HE6VR)
 
 ---------------------------------------------------------------------------------------------
