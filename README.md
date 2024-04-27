@@ -132,6 +132,10 @@ In case of problem in any question, feel free to open and issue. I will try to r
 ---------------------------------------------------------------------------------------------
 ## Acknowledgments
 
-https://www.deeplearning.ai/
-http://coursera.org/
+[https://www.deeplearning.ai/]
+
+
+[http://coursera.org/]
+---------------------------------------------------------------------------------------------
+
 
