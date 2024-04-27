@@ -78,4 +78,10 @@ In case of problem in any question, feel free to open and issue. I will try to r
 *  [Lab 3: Optimization Using Newton's Method](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C2-Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week3/C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb)
 *  [Programming Assignment 3 (with all the packes and supporting files): Neural Network with Two Layers](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/tree/master/C2-Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Solved%20assignments%20with%20all%20packages%20and%20files/assignment%20week3)
 *  [Programming Assignment 3 : Neural Network with Two Layers](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C2-Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week3/C2_W3_Assignment.ipynb)
+*  [Lecture SLides](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI/blob/master/C2-Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week3/lectures_Week3.pdf)
+
+## Certificate
+
+- [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/6VQW8BYKZQCB)
+
 ---------------------------------------------------------------------------------------------
