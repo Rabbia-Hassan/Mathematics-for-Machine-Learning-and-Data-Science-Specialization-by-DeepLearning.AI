@@ -7,7 +7,7 @@ In case of problem in any question, feel free to open and issue. I will try to r
 # Course 1
 ## Linear Algebra for Machine Learning and Data Science
 
-## Solution to Quizzes, Solved Mathematical Questions, Labs,and Assignments.
+### Solution to Quizzes, Solved Mathematical Questions, Labs,and Assignments.
 
-### Week 1
+## Week 1
 
